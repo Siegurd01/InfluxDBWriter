@@ -1,5 +1,5 @@
 # InfluxDBWriter
-Yet another InfluxDB C++ library that allows to write ~1.2MSPS using curl.
+Yet another simple and powerful InfluxDB C++ library that allows you to write ~1.2MSPS using curl.
 
 Tested on 
 ```
